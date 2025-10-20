@@ -3,7 +3,7 @@
     	{
         	"URL": "https://drive.google.com/file/d/1h8mwFB-sKC9TiK9LP1Qlikp_09nDQe5g/view?usp=sharing",
         	"Pos": "BottomLeft",
-        	"Persist": false,
+        	"Persist": True,
         	"FadeTime": 5
     	}
 	]
